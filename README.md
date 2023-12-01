@@ -5,6 +5,6 @@ Proyectos react del curso de freecodecamp personalizados al estilo The Walking D
 **Conceptos y tecnologias aprendidos:** `Jsx`,`Props`, `useState`, `useEffect`, 
 
 1 - 
-[CLICK HERE](https://formularioargentinaprograma.netlify.app/).
+[CLICK HERE](https://react-twd-characters.netlify.app/).
 
-![formulario](formulario.png)
+![preview](1.png)
