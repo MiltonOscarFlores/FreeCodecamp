@@ -1,0 +1,36 @@
+button {
+  /* width: 250px;
+  height: 80px;
+  font-family: roboto, sans-serif;
+  font-weight: bold;
+  color: white;
+  border: 2px solid white;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer; */
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid #474239;
+  border-radius: 5px;
+  color: #fff;
+  background-color: rgb(34, 33, 33);
+
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #242424;
+  cursor: pointer;
+}
+
+button:active {
+  /* Estilo al hacer clic con animación */
+  transform: translateY(4px); /* Mueve el botón hacia abajo */
+  transition: transform 0.3s ease; /* Agrega una animación suave al clic */
+}
