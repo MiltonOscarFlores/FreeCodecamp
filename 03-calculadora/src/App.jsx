@@ -10,6 +10,7 @@ function App() {
           src={logo}
           alt="logo"
         />
+        <div className="calculadoraContainer"></div>
       </div>
     </>
   );

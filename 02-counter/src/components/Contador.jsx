@@ -1,7 +1,8 @@
 import React from "react";
+import "../styles/Contador.css";
 
-const Contador = () => {
-  return <div className="contador">Contador</div>;
+const Contador = ({ numeroDeClicks }) => {
+  return <div className="contador">{numeroDeClicks}</div>;
 };
 
 export default Contador;
